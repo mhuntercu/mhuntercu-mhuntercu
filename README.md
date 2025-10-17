@@ -1,6 +1,5 @@
 # mhuntercu-mhuntercu
-![Banner](https://github.com/yourusername/yourusername/blob/main/img_oo66.png)
-[Banner(https://github.com/mhuntercu/mhuntercu/blob/main/banner.Download IMG_2310_github_bg.jpeg)
+![Banner](https://github.com/yourusername/yourusername/blob/main/img_0066.png)
 Portfolio Intro
 # 👋 Hi, I'm Matthew Hunter
 
