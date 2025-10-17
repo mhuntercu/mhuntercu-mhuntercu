@@ -1,3 +1,4 @@
+![GitHub Banner](https://github.com/mhuntercu/mhuntercu/blob/main/IMG_0066.jpeg)
 # mhuntercu-mhuntercu
 Portfolio Intro
 # 👋 Hi, I'm Matthew Hunter
